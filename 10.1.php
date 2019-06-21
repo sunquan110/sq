@@ -14,7 +14,7 @@ function FindNumsAppearOnce($array){
         }
 
     }
-    return $array;
+    return $arr;
 }
 
 print_r(FindNumsAppearOnce($array));
